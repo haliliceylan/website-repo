@@ -468,7 +468,7 @@ Flag:	cypwn_{matrixhacker}
   
 **Trivia 150 # Not deleted, Can not be deleted!!!**  
 **Soru:** *https://github.com/stolkhomvadisi/rails-mailinglist-activejob*
-Verilan github adresinde commitlere bakıldığında yapılan değişiklikler görülebiliyor.
+Verilen github adresinde commitlere bakıldığında yapılan değişiklikler görülebiliyor.
 
 ![]({{ AUCyberClub.github.io }}/assets/img/cypmctfcozumler/30.png)
 
